@@ -3,7 +3,7 @@
 // @namespace    https://greysec.net/
 // @version      0.1
 // @description  Simple script for changing latests posts to the top and the button "return to top"
-// @author       You
+// @author       enmafia2
 // @match        https://greysec.net/
 // @match        https://greysec.net/index.php
 // @grant        none
